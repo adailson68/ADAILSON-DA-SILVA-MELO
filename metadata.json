@@ -1,0 +1,5 @@
+{
+  "name": "AFJ Connect - Sistema Inteligente de Frequência",
+  "description": "Um sistema avançado de gestão de ponto e frequência para motoristas, integrando análise preditiva via Gemini AI e dashboards de performance.",
+  "requestFramePermissions": []
+}
